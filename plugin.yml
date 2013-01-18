@@ -1,0 +1,6 @@
+name: EnderDetect
+main: com.github.intangir.EnderDetect.EnderDetect
+version: 1.0
+description: Lets players use Eye of Ender to detect who placed removed or interacted with a block
+author: Intangir
+
